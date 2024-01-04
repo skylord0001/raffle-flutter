@@ -21,6 +21,9 @@ This project is a Flutter front-end for a Raffle application, complementing the 
 4. **Admin Systems Management:**
    - Admin features for managing raffles, tickets, and user activities.
 
+## Why This App?
+This app was created as a learning experience project. While the concept of betting and raffling may have negative aspects, the development process provided valuable insights into user management, API integration, and deploying applications.
+
 ## Screenshots
 ### Check out [devfemibadmus/raffle-flutter](https://github.com/devfemibadmus/raffle-flutter) for the App screenshots
 ### Website Pages
