@@ -26,10 +26,20 @@ This project is a Flutter front-end for a Raffle application, complementing the 
 ### Website Pages
 
 
-| ![Login](readme/127.0.0.1_8800_raffle(iPhone%2012%20Pro).png?raw=true) | ![Login](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(8).png?raw=true)
+# Screenshots
 
-|![home](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(2).png)|![Raffle](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(4).png)|![Winner](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(5).png)|![Me](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(1).png)|
-|![Raffle details](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(7).png)|![Notification](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(3).png)|
+| Login                                                        | Login                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Login](readme/127.0.0.1_8800_raffle(iPhone%2012%20Pro).png?raw=true) | ![Login](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(8).png?raw=true) |
+
+| Home                                                         | Raffle                                                       | Winner                                                       | Me                                                           |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Home](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(2).png) | ![Raffle](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(4).png) | ![Winner](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(5).png) | ![Me](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(1).png) |
+
+| Raffle details                                               | Notification                                                 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![Raffle details](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(7).png) | ![Notification](readme/127.0.0.1_8880_raffle(iPhone%2012%20Pro)%20(3).png) |
+
 
 
 
