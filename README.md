@@ -1,7 +1,7 @@
 # Raffle Flutter App
 
 ## Project Type
-This project is a Flutter front-end for a Raffle application, complementing the Django backend ([raffleapi-django](https://github.com/devfemibadmus/raffleapi-django)) for managing raffles, tickets, and user-related activities. The app provides an engaging and responsive user experience on both mobile and web platforms.
+This project is a Flutter front-end for a Raffle application, complementing the Django backend [raffleapi-django](https://github.com/devfemibadmus/raffleapi-django) for managing raffles, tickets, and user-related activities. The app provides an engaging and responsive user experience on both mobile and web platforms.
 
 ## Features
 
